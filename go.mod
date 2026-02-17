@@ -7,10 +7,10 @@ require (
 	github.com/go-contrib/uuid v1.2.0
 	github.com/krakend/bloomfilter/v2 v2.1.0
 	github.com/krakend/krakend-amqp/v2 v2.3.0
-	github.com/krakend/krakend-audit v0.7.0
+	github.com/krakend/krakend-audit v0.9.0
 	github.com/krakend/krakend-botdetector/v2 v2.3.0
 	github.com/krakend/krakend-cel/v2 v2.4.0
-	github.com/krakend/krakend-circuitbreaker/v2 v2.1.0
+	github.com/krakend/krakend-circuitbreaker/v3 v3.0.0
 	github.com/krakend/krakend-cobra/v2 v2.7.0
 	github.com/krakend/krakend-cors/v2 v2.2.0
 	github.com/krakend/krakend-flexibleconfig/v2 v2.3.0
@@ -214,7 +214,7 @@ require (
 	github.com/rs/cors/wrapper/gin v0.0.0-20240830163046-1084d89a1692 // indirect
 	github.com/ryanuber/go-glob v1.0.0 // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
-	github.com/sony/gobreaker v0.5.0 // indirect
+	github.com/sony/gobreaker/v2 v2.4.0 // indirect
 	github.com/spf13/cast v1.6.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/stoewer/go-strcase v1.2.0 // indirect

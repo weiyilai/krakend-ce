@@ -6,7 +6,7 @@ import (
 
 	amqp "github.com/krakend/krakend-amqp/v2"
 	cel "github.com/krakend/krakend-cel/v2"
-	cb "github.com/krakend/krakend-circuitbreaker/v2/gobreaker/proxy"
+	cb "github.com/krakend/krakend-circuitbreaker/v3/gobreaker/proxy"
 	httpcache "github.com/krakend/krakend-httpcache/v2"
 	lambda "github.com/krakend/krakend-lambda/v2"
 	lua "github.com/krakend/krakend-lua/v2/proxy"
